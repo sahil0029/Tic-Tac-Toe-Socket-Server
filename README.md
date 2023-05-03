@@ -1,4 +1,4 @@
-# TicTacToe using Socket Server
+# Tic Tac Toe using Socket Server
 This is a project for the class : 18CSC302J - Computer Networks by Mr. N.A.S Vinoth
 
 #### Contributors
